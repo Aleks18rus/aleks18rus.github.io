@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'gtp_black';
+    src: url('fonts/gtp_black.eot');
+    src: url('fonts/gtp_black.eot') format('embedded-opentype'),
+         url('fonts/gtp_black.woff2') format('woff2'),
+         url('fonts/gtp_black.woff') format('woff'),
+         url('fonts/gtp_black.ttf') format('truetype'),
+         url('fonts/gtp_black.svg#gtp_black') format('svg');
+}

@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'gtp_bold';
+    src: url('fonts/gtp_bold.eot');
+    src: url('fonts/gtp_bold.eot') format('embedded-opentype'),
+         url('fonts/gtp_bold.woff2') format('woff2'),
+         url('fonts/gtp_bold.woff') format('woff'),
+         url('fonts/gtp_bold.ttf') format('truetype'),
+         url('fonts/gtp_bold.svg#gtp_bold') format('svg');
+}

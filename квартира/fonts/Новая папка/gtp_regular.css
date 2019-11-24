@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'gtp_regular';
+    src: url('fonts/gtp_regular.eot');
+    src: url('fonts/gtp_regular.eot') format('embedded-opentype'),
+         url('fonts/gtp_regular.woff2') format('woff2'),
+         url('fonts/gtp_regular.woff') format('woff'),
+         url('fonts/gtp_regular.ttf') format('truetype'),
+         url('fonts/gtp_regular.svg#gtp_regular') format('svg');
+}
